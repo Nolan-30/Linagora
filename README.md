@@ -35,11 +35,11 @@ Allez dans le dossier : cd mon-backend.
 Installez les dépendances : npm install.
 Lancez le serveur : npm run develop.
 
-Configuration manuelle :
+3. Configuration manuelle :
 Créez un Collection Type nommé Menu avec les champs titre et url.
 Créez un Single Type nommé Global avec un champ Media nommé logo.
 Dans Settings > Roles > Public, cochez find pour Menu et Global.
 
-3. Lancer le Frontend 🌐
+4. Lancer le Frontend 🌐
 Ouvrez simplement le fichier index.html dans votre navigateur.
 Vérifiez que le serveur Strapi tourne bien sur "http://localhost:1337" pour que les données s'affichent.
