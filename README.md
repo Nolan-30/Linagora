@@ -43,4 +43,5 @@ Dans Settings > Roles > Public, cochez find pour Menu et Global.
 
 3. Lancer le Frontend 🌐
 Ouvrez simplement le fichier index.html dans votre navigateur.
-Vérifiez que le serveur Strapi tourne bien sur http://localhost:1337 pour que les données s'affichent.
+Vérifiez que le serveur Strapi tourne bien sur
+"http://localhost:1337" pour que les données s'affichent.
