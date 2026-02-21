@@ -1,4 +1,4 @@
-🌐 Linagora Training - Menu & Logo Dynamique
+# 🌐 Linagora Training - Menu & Logo Dynamique
 Ce projet est un exercice pratique consistant à lier une interface Frontend à un CMS Headless (Strapi) pour rendre le contenu du site entièrement administrable sans toucher au code. 🛠️
 
 🚀 Fonctionnalités
